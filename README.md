@@ -1,9 +1,9 @@
-# Project manager - SaaS - Work-in-progress
+# [Project manager - SaaS - Work-in-progress](https://laurie-saas-app.herokuapp.com/)
 
 This is a project management system. There is a free tier of one project, with multiple users, and a paid tier of multiple projects. 
 There will be a admin user. Devise is used for authentication.
 
-It is built with Ruby 2.6.3 on Rails 6.1 and PostgresSQL as the dev and prod db, browser tested on safari and chrome. Created Jan 2021 as part of a Ruby on Rails tutorial by Mashrur Hossain.
+It is built with Ruby 3.0.0 on Rails 6.1 and PostgresSQL as the dev and prod db, browser tested on safari and chrome. Created Jan 2021 as part of a Ruby on Rails tutorial by Mashrur Hossain.
 
 ## Steps Followed
  
